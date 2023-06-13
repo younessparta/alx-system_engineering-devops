@@ -1,0 +1,2 @@
+#!/bin/bashi
+tail -n 10 /etc/passwd
